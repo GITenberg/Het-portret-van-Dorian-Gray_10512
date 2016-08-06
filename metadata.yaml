@@ -1,0 +1,45 @@
+_repo: Het-portret-van-Dorian-Gray_10512
+_version: 0.0.1
+alternative_title: Picture of Dorian Gray. Dutch
+contributor:
+  translator:
+    agent_name: Couperus-Baud, Elizabeth
+    birthdate: 1867
+    deathdate: 1960
+    gutenberg_agent_id: '41627'
+    url: http://www.gutenberg.org/2009/agents/41627
+    wikipedia: http://nl.wikipedia.org/wiki/Elisabeth_Couperus-Baud
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10512'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PR'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- GITenberg
+title: Het portret van Dorian Gray
+url: http://www.gutenberg.org/ebooks/10512
