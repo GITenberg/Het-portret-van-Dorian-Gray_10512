@@ -1,5 +1,5 @@
 _repo: Het-portret-van-Dorian-Gray_10512
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Picture of Dorian Gray. Dutch
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41627'
     url: http://www.gutenberg.org/2009/agents/41627
     wikipedia: http://nl.wikipedia.org/wiki/Elisabeth_Couperus-Baud
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -21,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10512#Het-portret-van-Dorian-Gray
 gutenberg_bookshelf: Movie Books
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
